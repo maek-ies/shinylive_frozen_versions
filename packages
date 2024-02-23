@@ -1,11 +1,2 @@
-shiny
 data.table
-ggplot2
-zoo
-ggh4x
-DT
-lubridate
-grid
-shinyjs
-shinycssloaders
 tinytable
