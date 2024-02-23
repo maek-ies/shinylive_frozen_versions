@@ -6,6 +6,7 @@ on:
     types: [ published ]
 
 name: Build and deploy wasm R package image
+packages: tinytable
 
 jobs:
   release-file-system-image:
